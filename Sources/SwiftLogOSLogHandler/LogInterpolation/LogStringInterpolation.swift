@@ -1,7 +1,7 @@
 /*
 MIT License
 
-Copyright (c) 2025 Tataru Robert
+Copyright (c) 2025 Tech Artists Agency
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -28,6 +28,7 @@ SOFTWARE.
 //
 //  Created by Robert Tataru on 01.10.2024.
 //
+
 import Foundation
 
 extension TAMessage {
