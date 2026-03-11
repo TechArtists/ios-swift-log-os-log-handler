@@ -116,6 +116,7 @@ public struct SwiftLogOSLogHandler: LogHandler {
         if metadata.isEmpty {
             return nil
         }
+        
         return metadata.map {
             "\($0)=\($1)"
         }.joined(separator: " ")
